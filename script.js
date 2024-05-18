@@ -1,7 +1,7 @@
 // COUNT DOWN for the prompt slide
 
 // Set the date we're counting down to
-var countDownDate = new Date("Nov 25, 2023 8:45:00").getTime();
+var countDownDate = new Date("Sep 21, 2024 8:45:00").getTime();
 
 // Update the count down every 1 second
 var x = setInterval(function() {
